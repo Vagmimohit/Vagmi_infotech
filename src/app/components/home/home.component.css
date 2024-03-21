@@ -1,0 +1,102 @@
+.ls-wp-container {
+    width: 100%;
+    height: 645px;
+    max-width: 1920px;
+    margin: 0 auto;
+    margin-bottom: 0px;
+}
+
+.ls-l {
+    top: 170px;
+    left: 830px;
+    font-weight: 300;
+    z-index: 5;
+    padding-left: 0px;
+    font-family: 'Lato', 'Open Sans', sans-serif;
+    font-size: 44px;
+    line-height: 46px;
+    color: #101017;
+    white-space: nowrap;
+}
+
+.ls-l1 {
+    top: 308px;
+    left: 781px;
+    font-weight: normal;
+    z-index: 3;
+    font-family: 'Lato';
+    font-size: 13px;
+    line-height: 26px;
+    color: #a2abb8;
+    white-space: nowrap;
+
+}
+
+.ls-l2 {
+    top: 230px;
+    left: 830px;
+    font-weight: 700;
+    z-index: 3;
+    font-family: 'Lato';
+    font-size: 60px;
+    line-height: 26px;
+    color: #01a8df;
+    white-space: nowrap;
+}
+
+.ls-l3 {
+    background: #00a5df;
+    color: #fff;
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 24px;
+    margin: 10px 0 0;
+    padding: 0 7px 0 7px;
+    position: relative;
+    text-decoration: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.ls-l4 {
+
+    top: 135px;
+    left: 832px;
+    white-space: nowrap;
+    background: #00a5df;
+
+}
+
+.ls-l4 span {
+    color: #fff;
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 24px;
+    margin: 10px 0 0;
+    padding: 0 7px 0 7px;
+    position: relative;
+    text-decoration: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.team {
+    text-align: left;
+    float: none;
+    position: absolute;
+    inset: 0px auto auto 0px;
+    margin: 0px;
+    width: 4088px;
+    height: 148px;
+    z-index: auto;
+}

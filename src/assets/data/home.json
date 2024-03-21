@@ -1,0 +1,157 @@
+{
+  "Home": {
+    "ourservice": [
+      {
+        "img": "../../../assets/images/Digital-Marketing.png",
+        "heading": "Digital Marketing",
+        "paragrph": "Our team uses modern SEO services, backed by the best digital practices, to increase your traffic & rankings for vetted keywords and long-tail phrases that drive business to your site."
+      },
+      {
+        "img": "../../../assets/images/Web-Application.png",
+        "heading": "Web Application",
+        "paragrph": "We purely focuses on building fully functional, robust, and scalable web applications. We build custom web apps using the right technology stacks that align with your business objectives and help you achieve maximum growth."
+      },
+      {
+        "img": "../../../assets/images/Hosting-Services.png",
+        "heading": "Hosting Services",
+        "paragrph": "We provide reliable and affordable web hosting services that allow for premium management of your website , domain name and server structure. We deliver the complete package of speed, security, versatility."
+      },
+      {
+        "img": "../../../assets/images/Software-Consultancy.png",
+        "heading": "Software Consultancy",
+        "paragrph": "Audit the way your current Software operates and meets your business needs. Planning a strategy to handle detected inefficiencies. May include software modernization, refactoring, migration, upgrade."
+      },
+      {
+        "img": "../../../assets/images/Social-Media-Markding.png",
+        "heading": "Social Media Marketing",
+        "paragrph": "We work with you to produce customized digital marketing services and a plan that aligns with your unique business needs. We become an extension of your team, a partner that understands your market and goals, rather than just an agency that executes strategies blindly."
+      },
+      {
+        "img": "../../../assets/images/Google-Advert.png",
+        "heading": "Google Ads",
+        "paragrph": "Our Google Ad campaign process is conducted through an initial setup and optimization phase followed with ongoing reporting, assessment, and account management for maximum value and performance."
+      },
+      {
+        "img": "../../../assets/images/Software-Testing.png",
+        "heading": "Software Testing",
+        "paragrph": "Whether you want to bring new software to market at a faster clip or transform your testing function and workforce—we have the right skills and capabilities to help you succeed and give a different experience."
+      },
+      {
+        "img": "../../../assets/images/Job-Consultancy.png",
+        "heading": "Job Consultancy",
+        "paragrph": "We believe in easing clients’ hiring solution by introducing innovative and entirely new hiring concepts. We aim to offer our clients unmatched services by offering quickest closure to their current openings"
+      }
+    ],
+    "ourblog": [
+      {
+        "img": "../../../assets/images/blog-10.jpg",
+        "heading": "The Impact of Social Media on SEO",
+        "paragrph": "In the ever-evolving landscape of digital marketing, the relationship between social media and SEO has become"
+      },
+      {
+        "img": "../../../assets/images/blog-10.jpg",
+        "heading": "The Impact of Social Media on SEO",
+        "paragrph": "In the ever-evolving landscape of digital marketing, the relationship between social media and SEO has become"
+      },
+      {
+        "img": "../../../assets/images/blog-10.jpg",
+        "heading": "The Impact of Social Media on SEO",
+        "paragrph": "In the ever-evolving landscape of digital marketing, the relationship between social media and SEO has become"
+      }
+    ],
+    "sections": [ 
+      {
+        "title": "Why Us?",
+        "content": [
+          {
+            "title": "Experience & Expertise",
+            "description": "Our portfolio of work includes skills well suited to a wide variety of projects. Our experience is especially vast in a number of industries."
+          },
+          {
+            "title": "Unparalleled Services",
+            "description": "Vagmi Infotech offers an array of services that many companies have taken advantage of. Our services become a valuable supplement to your teams, freeing up your own internal resources to focus on producing your new product."
+          },
+          {
+            "title": "Value",
+            "description": "We make every effort to provide our customers with great products and services, and we work just as hard to make sure they are getting the right business model that fits their needs. We promise the same to you."
+          }
+        ]
+      },
+      {
+        "title": "Our Services",
+        "list": [
+          {
+            "name": "Web Application",
+            "link": "Web-Applications.html",
+            "icon": "fa fa-inbox"
+          },
+          {
+            "name": "Direct Selling",
+            "link": "Digital-Marketing.html",
+            "icon": "fa fa-tablet"
+          },
+          {
+            "name": "MLM Software",
+            "link": "MLM--Software.html",
+            "icon": "fa fa-html5"
+          },
+          {
+            "name": "Billing Software",
+            "link": "Billing-Software.html",
+            "icon": "fa fa-css3"
+          },
+          {
+            "name": "Customize Software",
+            "link": "Customize-Software.html",
+            "icon": "fa fa-th"
+          },
+          {
+            "name": "Mobile App",
+            "link": "Mobile-Application.html",
+            "icon": "fa fa-shield"
+          }
+        ]
+      },
+      {
+        "title": "About Priority",
+        "teamMember": {
+          "name": "M RAJVALLI",
+          "role": "Founder",
+          "image": "images/Team-images/image4.jpg",
+          "description": "Our Management Policy, Associates, and Team put their 100% efforts to fulfill customer object. We Value our customers IT-Investment and cares about the objective of their Investment and working hard to fulfill it."
+        }
+      }
+    ],
+    "RecentPortfolio":[
+      {
+        "title": "Consortiumservices",
+        "image": "../../../assets/images/blog-10.jpg",
+        "description": "We at Consortium Services are here to maintain and accomplish",
+        "likes": 11,
+        "link": "Portfolio.html" 
+      },
+      {
+        "title": "houseconcepts",
+        "image": "../../../assets/images/portfolio-images/image8.jpg",
+        "description": "We conceptualize interior detailing including lighting / color / materials / finish selections,",
+        "likes": 16,
+        "link": "Portfolio.html"
+      },
+      {
+        "title": "Samajsevakparty",
+        "image": "../../../assets/imagess/portfolio-images/image2.jpg",
+        "description": "The ideology of the Samaj Sevak Party is to create a society in which all sections",
+        "likes": 13,
+        "link": "Portfolio.html"
+      }
+    ],
+    "Meet_Our_Team":[
+      { "imageUrl": "../../../assets/images/client-images/client-logo3.png" },
+      { "imageUrl": "../../../assets/images/client-images/client-logo4.png" },
+      { "imageUrl": "../../../assets/images/client-images/client-logo3.png" },
+      { "imageUrl": "../../../assets/images/client-images/client-logo1.png" },
+      { "imageUrl": "../../../assets/images/client-images/client-logo2.png" }
+    ]
+    
+  }
+}

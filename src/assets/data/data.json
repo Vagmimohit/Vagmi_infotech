@@ -1,0 +1,63 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "type":"link",
+      "path":"home"
+    },
+    {
+      "name": "About Us",
+      "type":"sub",
+      "subMenu": [
+        {
+          "name": "About Us",
+          "type":"link",
+          "path":"/about"
+        },
+        {
+          "name": "Digital Business Card",
+          "type":"link",
+          "path":"about/digitalcard"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "type":"sub",
+      "subMenu": [
+        {"name": "Web Application", "link": "Web-Applications.html"},
+        {"name": "Software Consultancy", "link": "Software-Consultancy.html"},
+        {"name": "MLM Software", "link": "MLM--Software.html"},
+        {"name": "Customize Software", "link": "Customize-Software.html"},
+        {"name": "Mobile App", "link": "Mobile-Application.html"},
+        {"name": "Outsourcing", "link": "Outsourcing.html"},
+        {"name": "Social Media Marketing", "link": "Social-Media-Marketing.html"}
+      ]
+    },
+    {
+      "name": "Hosting",
+      "type":"sub",
+      "subMenu": [
+        {"name": "Windows Hosting", "link": "Windows-Hosting.html"},
+        {"name": "Linux Hosting", "link": "Linux-Hosting.html"},
+        {"name": "Indian Dedicated Servers", "link": "Indian-Dedicated-Servers.html"}
+      ]
+    },
+    {
+      "name": "Testing",
+      "type":"sub",
+      "subMenu": [
+        {"name": "Automation Testing", "link": "Testing.html#headline1"},
+        {"name": "Mobile Application Testing", "link": "Testing.html#headline2"},
+        {"name": "Manual Testing", "link": "Testing.html#headline3"},
+        {"name": "Security Testing", "link": "Testing.html#headline4"},
+        {"name": "Performance Testing", "link": "Testing.html#headline5"},
+        {"name": "API Testing", "link": "Testing.html#headline6"},
+        {"name": "QA Analysis", "link": "Testing.html#headline7"}
+      ]
+    },
+    {"name": "Career", "link": "careers.html"},
+    {"name": "Blog", "link": "blog.html"},
+    {"name": "Contact", "link": "contact.html"}
+  ]
+}

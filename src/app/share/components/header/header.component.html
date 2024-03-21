@@ -1,0 +1,67 @@
+<div class="wrapper">
+    <div class="inner-wrapper">
+
+        <div class="top-bar">
+
+            <div class="container">
+
+                <ul class="top-menu">
+                    <li> <i class="fa fa-phone"></i> Any Questions? Call Us: <span> 1-223-355-2214 </span></li>
+                    <li> <i class="fa fa-skype"></i> Skype: <a href="#" title="Design Themes"> DesignThemes </a></li>
+                </ul>
+
+                <div class="top-right">
+                    <span>Get social with us!</span>
+                    <ul class="dt-sc-social-icons">
+                        <li> <a href="#" title="facebook"> <i class="fa fa-facebook"></i> </a> </li>
+                        <li> <a href="#" title="twitter"> <i class="fa fa-twitter"></i> </a> </li>
+                        <li> <a href="#" title="google-plus"> <i class="fa fa-google-plus"></i> </a> </li>
+                        <li> <a href="#" title="pinterest"> <i class="fa fa-pinterest"></i> </a> </li>
+                        <li> <a href="#" title="skype"> <i class="fa fa-skype"></i> </a> </li>
+                        <li> <a href="#" title="youtube"> <i class="fa fa-youtube"></i> </a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="header-wrapper">
+
+            <header class="header header2">
+                <div class="container">
+
+                    <div id="logo">
+                        <a href="index.html" title="Priority"> <img src="images/logo.png" alt="image" /> </a>
+                    </div>
+                    <div id="menu-container">
+
+                        <nav id="main-menu">
+                            <div id="dt-menu-toggle" class="dt-menu-toggle">
+                                Menu
+                                <span class="dt-menu-toggle-icon"></span>
+                            </div>
+                            <ul class="menu">
+                                <li *ngFor="let menuItem of menuData" class="menu-item-simple-parent">
+                                    <a *ngIf="menuItem.type === 'link'" [routerLink]="menuItem.path">
+                                        {{menuItem.name}}</a>
+                                    <a *ngIf="menuItem.type === 'sub'">{{menuItem.name}}</a>
+
+                                    <ul class="sub-menu" *ngIf="menuItem.subMenu">
+                                        <li *ngFor="let childrenItem of menuItem.subMenu"><a
+                                                *ngIf="childrenItem.type === 'link'" [routerLink]="childrenItem.path">
+                                                <i class="fa fa-circle"></i><span> {{childrenItem.name}}</span>
+                                            </a></li>
+
+                                    </ul>
+                                    <a class="dt-menu-expand">+</a>
+                                </li>
+
+
+                            </ul>
+                        </nav>
+
+                    </div>
+                </div>
+            </header>
+        </div>
+
+    </div>
+</div>
